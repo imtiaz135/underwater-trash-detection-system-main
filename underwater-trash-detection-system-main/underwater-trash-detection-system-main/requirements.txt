@@ -1,0 +1,8 @@
+numpy==1.24.4
+opencv-python-headless
+ultralytics
+streamlit
+streamlit-js-eval
+torchvision>=0.20.0
+Pillow>=10.0.0
+# ...other packages if needed... 
